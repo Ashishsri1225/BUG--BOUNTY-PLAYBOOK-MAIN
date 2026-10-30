@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "7795414896074677",
+    "type": "split",
+    "children": [
+      {
+        "id": "919193f691021a2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77b93e90398f7a51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Methodology/Phase 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phase 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6570df41b81eaa02",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e871b2ec2c9b4ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d37f4b9730f04d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fded88510031cd9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8c260b7a3e55e678",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "706a91e07f1140dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "978c55d069ffce56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f4c893b3fbae4ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Methodology/Bug-Bounty-Methodology.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bug-Bounty-Methodology.md"
+            }
+          },
+          {
+            "id": "4784858b0b08db7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Methodology/Bug-Bounty-Methodology.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Bug-Bounty-Methodology.md"
+            }
+          },
+          {
+            "id": "063e8c420f9c57bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ac726d3fffcad63a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a407adaf39af1056",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Methodology/Bug-Bounty-Methodology.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Bug-Bounty-Methodology.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0d37f4b9730f04d2",
+  "lastOpenFiles": [
+    "Methodology/Bug-Bounty-Methodology.md",
+    "Methodology/Phase 2.md",
+    "Methodology/Scope.md.md",
+    "Methodology/Bug-Bounty-Methodology.md.md",
+    "Methodology/Bug-Hunting-Workflow.md/Untitled.md",
+    "Methodology/Bug-Hunting-Workflow.md",
+    "Untitled",
+    "Methodology",
+    "Welcome.md"
+  ]
+}
